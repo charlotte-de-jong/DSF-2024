@@ -176,4 +176,4 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
-!streamlit run thesimatch_app.py
+streamlit run thesimatch_app.py
