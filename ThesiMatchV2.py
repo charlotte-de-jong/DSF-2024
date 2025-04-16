@@ -92,4 +92,5 @@ if submitted:
 '''
 with open("thesimatch_app.py", "w", encoding="utf-8") as f:
     f.write(streamlit_code)
-streamlit run path/to/thesimatch_app.py
+
+streamlit run ThesiMatchV2.py
