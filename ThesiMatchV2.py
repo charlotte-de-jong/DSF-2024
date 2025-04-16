@@ -1,4 +1,4 @@
-pip install langgraph streamlit anthropic --quiet
+
 
 import os
 import streamlit as st
