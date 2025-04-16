@@ -2,7 +2,7 @@
 
 import os
 import streamlit as st
-pip install anthropic
+import anthropic
 from langgraph.graph import StateGraph
 from typing import TypedDict, List, Dict
 
